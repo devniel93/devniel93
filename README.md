@@ -3,7 +3,6 @@
 - 🏢 I'm currently working at **DXC Technology**
 - 🌱 Studying to obtain the AZ-204 Azure Developer certificate
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/devniel93-blue?logo=Linkedin&style=flat-square&link=https://www.linkedin.com/in/daniel-alexander-olano-burga-b1aa28102/)](https://www.linkedin.com/in/daniel-alexander-olano-burga-b1aa28102/)
-- ⚡ Fun fact: I'm a huge fan of Marvel Series and Star Wars! 
 
 ## ⚡ Technologies, Tools & Frameworks
 

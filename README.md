@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <a href="https://github.com/devniel93">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=devniel93&theme=onedark&title=Commit,Repositories,Issues&no-bg=true" height="180px" alt="Github Trophies" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=devniel93&theme=onedark&title=Commit,Repositories,Issues&no-bg=false" height="180px" alt="Github Trophies" />
 </a>
 
 
